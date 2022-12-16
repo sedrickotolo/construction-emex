@@ -182,3 +182,7 @@ section{
     border-bottom-right-radius: 7px;
 	display:block;
 }
+
+.home-font{
+    font-size: 60px !important;
+}
