@@ -194,3 +194,33 @@ section{
     }
     
 }
+
+
+.main-info-div{
+    display: flex;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    align-items: center;
+    margin: 30px;
+    place-content: center;
+}
+.about-info{
+    width: auto;
+    
+}
+.center-text{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.core-values{
+    text-align: justify;
+}
+
+.core-values h4{
+    font-size: 20px;
+}
+
+.text-left{
+    text-align: left;
+}
