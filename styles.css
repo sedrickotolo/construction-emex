@@ -224,3 +224,10 @@ section{
 .text-left{
     text-align: left;
 }
+
+/* product session */
+.center .filter-button{
+    font-size: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
